@@ -1,5 +1,4 @@
-# Name of our Project
-Data Analysis on Rising Sea Level
+# Data Analysis on Rising Sea Level
 
 ## LATEST FEATURE
 Backpropagation Algo
