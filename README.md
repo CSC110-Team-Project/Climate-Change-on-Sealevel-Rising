@@ -1,8 +1,8 @@
 # Name of our Project
-...
+Data Analysis on Rising Sea Level
 
 ## LATEST FEATURE
-CNN + Numpy + Pandas + Scrapy + Plotly
+Backpropagation Algo
 
 ### Group Members:
 - Zixin Guo
