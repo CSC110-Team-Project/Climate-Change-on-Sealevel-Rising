@@ -5,9 +5,9 @@ Backpropagation Algo
 
 ### Group Members:
 - Zixin Guo
-- ...
-- ...
-- ...
+- Xiangyu Tu
+- Rilong Zhang
+- Peng Du
 
 The compiled language for this program is Python3.8
 
